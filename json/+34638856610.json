@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "fecha_hora": "Desconocida",
+    "emisor": "Desconocido",
+    "mensaje": "haz clic aquí para ver la información de contacto"
+  },
+  {
+    "id": 2,
+    "fecha_hora": "11:48, 22/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "Hola Miguel\n\nHemos revisado vuestro partido y el problema vino por la configuración de una de las cámaras de la pista.\nLo sentimos por las molestias. Ya lo tenemos identificado y revisado para evitar que vuelva a pasar.\n\nGracias por avisarnos."
+  }
+]

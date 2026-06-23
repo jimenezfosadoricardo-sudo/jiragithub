@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "fecha_hora": "Desconocida",
+    "emisor": "Desconocido",
+    "mensaje": "haz clic aquí para ver la información de contacto"
+  },
+  {
+    "id": 2,
+    "fecha_hora": "9:10, 22/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "Hola! 😊\n\nActualmente no trabajamos con un único modelo fijo de cámara para todas las pistas. La instalación puede variar según el club, la pista y la configuración técnica necesaria para que Padmi funcione correctamente.\n\nAdemás, seguimos probando y evaluando nuevos modelos y configuraciones para mejorar la calidad de grabación y análisis.\n\nSi nos dices un poco más qué información necesitas exactamente te podremos contestar mucho mejor."
+  }
+]

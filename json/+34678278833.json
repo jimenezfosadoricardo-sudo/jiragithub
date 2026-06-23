@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "fecha_hora": "Desconocida",
+    "emisor": "Desconocido",
+    "mensaje": "haz clic aquí para ver la información de contacto"
+  },
+  {
+    "id": 2,
+    "fecha_hora": "13:52, 19/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "Hola! 😊\n\nAyer tuvimos una incidencia técnica en torno a las 17:00 aproximadamente que afectó al procesamiento de algunos partidos.\n\nTu partido aparece como uno de los afectados...\n\nSentimos mucho lo ocurrido. Estamos trabajando para evitar que vuelva a repetirse."
+  }
+]

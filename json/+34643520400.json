@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "fecha_hora": "Desconocida",
+    "emisor": "Desconocido",
+    "mensaje": "haz clic aquí para ver la información de contacto"
+  },
+  {
+    "id": 2,
+    "fecha_hora": "13:22, 22/6/2026",
+    "emisor": "+34 643 52 04 00",
+    "mensaje": "He jugado en pádel Munda a las 11:30 pero me pone que he jugado en Reus"
+  },
+  {
+    "id": 3,
+    "fecha_hora": "13:22, 22/6/2026",
+    "emisor": "+34 643 52 04 00",
+    "mensaje": "Y que no se ha grabado"
+  },
+  {
+    "id": 4,
+    "fecha_hora": "13:22, 22/6/2026",
+    "emisor": "+34 643 52 04 00",
+    "mensaje": "Indor rus"
+  },
+  {
+    "id": 5,
+    "fecha_hora": "13:23, 22/6/2026",
+    "emisor": "+34 643 52 04 00",
+    "mensaje": "Me pone"
+  },
+  {
+    "id": 6,
+    "fecha_hora": "12:25, 23/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "Hola! Cómo va todo?"
+  },
+  {
+    "id": 7,
+    "fecha_hora": "12:25, 23/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "Indícanos por favor: \nClub\nPista \nFecha\nHora del partido\ntú email de registro en Padmi\n\nCon esos datos podemos revisarlo más rápido ☺️"
+  }
+]
