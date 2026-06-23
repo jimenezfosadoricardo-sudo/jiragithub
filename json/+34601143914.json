@@ -1,18 +1,12 @@
 [
   {
     "id": 1,
-    "fecha_hora": "Desconocida",
-    "emisor": "Desconocido",
-    "mensaje": "haz clic aquí para ver la información de contacto"
-  },
-  {
-    "id": 2,
     "fecha_hora": "22:43, 22/6/2026",
     "emisor": "+34 601 14 39 14",
     "mensaje": "Buenas, hemos jugado un partido pero no se ha grabado, nos dice que hay un error, a que se puede deber? Nos gustaria ver el partido y las estadisticas, muchas gracias"
   },
   {
-    "id": 3,
+    "id": 2,
     "fecha_hora": "12:45, 23/6/2026",
     "emisor": "Yo (Padmi Soporte)",
     "mensaje": "Hola! Indícanos por favor: \nClub\nPista \nFecha\nHora del partido\ntú email de registro en Padmi\n\nCon esos datos podemos revisarlo más rápido ☺️"

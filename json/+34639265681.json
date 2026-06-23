@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fecha_hora": "20:14, 22/6/2026",
+    "emisor": "+34 639 26 56 81",
+    "mensaje": "Burnas"
+  },
+  {
+    "id": 2,
+    "fecha_hora": "20:15, 22/6/2026",
+    "emisor": "+34 639 26 56 81",
+    "mensaje": "Hoy he jugado un partido y la App no me deja decir que jugador soy, al meterme para seleccionar que jugador soy se me queda la pantalla en negro, sin embargo en un partido que hice hace tiempo si que me dejaba ver estadísticas"
+  },
+  {
+    "id": 3,
+    "fecha_hora": "12:44, 23/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "Hola! Que tal \n\nIndícanos por favor: \nClub\nPista \nFecha\nHora del partido\ntú email de registro en Padmi\n\nCon esos datos podemos revisarlo más rápido ☺️"
+  },
+  {
+    "id": 4,
+    "fecha_hora": "13:03, 23/6/2026",
+    "emisor": "+34 639 26 56 81",
+    "mensaje": "Onpadel Club (Mutilva - NAVARRA)\nPista 2 (la única que tiene cámara)\n22/06/2026\n16:30-18:00\na.javier.perezreyes@gmail.com"
+  },
+  {
+    "id": 5,
+    "fecha_hora": "13:09, 23/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "Hola Javier! 😊\n\nHemos intentado reproducir el problema, pero por ahora no vemos ningún error asociado al partido.\n\nPara poder investigarlo mejor, ¿nos puedes enviar una grabación de pantalla en video donde se vea exactamente qué ocurre?\n\nTambién nos ayudaría saber:\nSi usas iOS o Android\nLa versión del sistema operativo\n\nY, por favor, asegúrate de tener instalada la última versión de Padmi disponible en la Store.\n\nCon esa información podremos revisarlo con más detalle."
+  }
+]
