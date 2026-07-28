@@ -106,3 +106,9 @@ El archivo de salida cuenta con una estructura tabular relacional limpia con cod
 ---
 
 💻 *Desarrollado para la infraestructura de datos y soporte técnico de Padmi.*
+
+
+
+Gemini I: https://gemini.google.com/share/d/1DYcrOQ9TV2Pi6MxpiIfCTZlFO7P29rlW?usp=sharing
+
+Gemini II: https://gemini.google.com/share/d/1rBVJZXwe_q3QzssGlTKR_vgb1GdBQgEE?usp=sharing

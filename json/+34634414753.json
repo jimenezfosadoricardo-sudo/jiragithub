@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fecha_hora": "22:41, 28/6/2026",
+    "emisor": "+34 634 41 47 53",
+    "mensaje": "Hola!! \nHe jugado un partido en el VIP padel de Terrassa y me sale procesando. Al clicarle me sale error"
+  },
+  {
+    "id": 2,
+    "fecha_hora": "22:41, 28/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "Hola! Gracias por escribir a Padmi. \n\nSi nos escribes por un partido, indícanos por favor: \nClub\nPista \nFecha\nHora del partido\ntú email de registro en Padmi\n\nCon esos datos podemos revisarlo más rápido ☺️\n\nSi simplemente quieres contactarnos, cuéntanos en qué podemos ayudarte 🦉"
+  },
+  {
+    "id": 3,
+    "fecha_hora": "22:42, 28/6/2026",
+    "emisor": "+34 634 41 47 53",
+    "mensaje": "VIP padel de Terrassa, 28 de junio de 2026 a las 21:00 horas.\nMercedomenego@icloud.com"
+  },
+  {
+    "id": 4,
+    "fecha_hora": "18:10, 29/6/2026",
+    "emisor": "Yo (Padmi Soporte)",
+    "mensaje": "¡Hola! Hemos revisado tu partido y el problema se debió a la pelota rosa que se utilizó durante el encuentro. Hay zonas de la pista en las que el sistema no registra con precisión la trayectoria de la pelota, por lo que las estadísticas no se generaron correctamente.\n\nDicho esto, disponemos de la grabación completa del partido. Me he tomado la libertad de descargar el vídeo para que puedas guardarlo y compartirlo si lo deseas.\n\nTe envío un enlace de descarga al email de registro en Padmi. Ten en cuenta que el enlace será válido durante 7 días."
+  },
+  {
+    "id": 5,
+    "fecha_hora": "18:41, 29/6/2026",
+    "emisor": "+34 634 41 47 53",
+    "mensaje": "Vale perfecto! Gracias"
+  }
+]
