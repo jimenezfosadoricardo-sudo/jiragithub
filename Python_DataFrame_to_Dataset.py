@@ -24,13 +24,14 @@ for archivo in archivos_json:
     # Filtro de seguridad: Si el archivo es un script de Python o JS, lo saltamos
     if not chat_id_limpio.isdigit():
         continue
-    
+     
     try:
         with open(archivo, 'r', encoding='utf-8') as f:
             datos_chat = json.load(f)
             
             for mensaje in datos_chat:
                 # === REGLA 2: FILTRO ANTI-BASURA RESIDUAL ===
+                #Commentario :0
                 # Si queda algún JSON viejo con líneas muertas de la interfaz, las saltamos aquí
                 if mensaje.get('emisor') == 'Desconocido' or 'información de contacto' in mensaje.get('mensaje', ''):
                     continue
