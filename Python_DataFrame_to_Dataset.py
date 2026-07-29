@@ -31,7 +31,7 @@ for archivo in archivos_json:
             
             for mensaje in datos_chat:
                 # === REGLA 2: FILTRO ANTI-BASURA RESIDUAL ===
-                # Si queda algún JSON viejo con líneas muertas de la interfaz, las saltamos aquí
+                # Si queda algún JSON viejo con líneas muertas de la interfaz, las asaltamos aquí
                 if mensaje.get('emisor') == 'Desconocido' or 'información de contacto' in mensaje.get('mensaje', ''):
                     continue
                 
