@@ -4,7 +4,7 @@ import json
 import os
 import re
 
-# 1. Buscamos todos los archivos JSON dentro de la carpeta 'json'
+# 1. Buscamos  todos los archivos JSON dentro de la carpeta 'json'
 archivos_json = glob.glob("./json/*.json")
 
 todos_los_mensajes = []
