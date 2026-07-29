@@ -21,7 +21,7 @@ for archivo in archivos_json:
     # Quitamos el símbolo '+' para homogeneizar todos los números
     chat_id_limpio = chat_id_limpio.replace('+', '')
     
-    # Filtro de seguridad: Si el archivo es un script de Python o JS, lo saltamos
+    # Filtro de seguridad: Si el archivo es un script de Python o JS, lo asaltamos
     if not chat_id_limpio.isdigit():
         continue
      
